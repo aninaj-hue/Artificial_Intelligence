@@ -1,0 +1,28 @@
+The map has 1000 cities
+The map has 5000 roads
+Position of first friend is: East Neta
+Position of second friend is: Port Octaviofort
+Current node: East Neta
+Current node: North Brandeport
+Current node: Meredithhaven
+Current node: Olinmouth
+Current node: North Dara
+Current node: Russelland
+Current node: Stromanland
+Current node: North Salvador
+Current node: North Antoine
+Current node: Wolffborough
+Current node: Maribethhaven
+Current node: Gerholdstad
+Current node: Wisokyfort
+Current node: Lavadachester
+Current node: Hellershire
+Current node: Lake Reagan
+Current node: New Robbyville
+Current node: Dorseyfurt
+Current node: Port Octaviofort
+Number of steps: 19
+Path is: [Port Octaviofort, Maribethhaven, North Salvador, Olinmouth, Meredithhaven, North Brandeport, East Neta]
+The friends meet in Olinmouth after 453
+Time taken by A* function is: 21 ms
+Time taken by whole program is: 894 ms

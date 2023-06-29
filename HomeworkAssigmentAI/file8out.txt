@@ -1,0 +1,13 @@
+The map has 4000 cities
+The map has 20000 roads
+Position of first friend is: West Margeretfort
+Position of second friend is: Lake Carline
+Current node: West Margeretfort
+Current node: Lake Yungland
+Current node: Bentonview
+Current node: Lake Carline
+Number of steps: 4
+Path is: [Lake Carline, Bentonview, Lake Yungland, West Margeretfort]
+The friends meet in Bentonview after 190
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 1748 ms

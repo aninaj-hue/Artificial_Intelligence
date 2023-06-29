@@ -1,0 +1,14 @@
+The map has 750 cities
+The map has 4000 roads
+Position of first friend is: West Edmundshire
+Position of second friend is: Lesahaven
+Current node: West Edmundshire
+Current node: Gusikowskiborough
+Current node: Kuhnburgh
+Current node: Port Deon
+Current node: Lesahaven
+Number of steps: 5
+Path is: [Lesahaven, Kuhnburgh, Gusikowskiborough, West Edmundshire]
+The friends meet in Kuhnburgh after 335
+Time taken by A* function is: 5 ms
+Time taken by whole program is: 1120 ms

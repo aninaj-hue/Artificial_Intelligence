@@ -1,0 +1,24 @@
+The map has 5000 cities
+The map has 25000 roads
+Position of first friend is: Hermannland
+Position of second friend is: Kossborough
+Current node: Hermannland
+Current node: Port Laverntown
+Current node: New Sherwoodhaven
+Current node: Lucianomouth
+Current node: South Yoko
+Current node: Goyetteton
+Current node: Lake Carmelitaville
+Current node: Turcotteborough
+Current node: Lavonnabury
+Current node: East Jeanamouth
+Current node: Reingerhaven
+Current node: North Denny
+Current node: Prosaccomouth
+Current node: Haleyhaven
+Current node: Kossborough
+Number of steps: 15
+Path is: [Kossborough, Turcotteborough, Goyetteton, South Yoko, Lucianomouth, New Sherwoodhaven, Port Laverntown, Hermannland]
+The friends meet in South Yoko after 529
+Time taken by A* function is: 3 ms
+Time taken by whole program is: 2933 ms

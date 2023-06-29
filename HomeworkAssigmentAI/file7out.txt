@@ -1,0 +1,44 @@
+The map has 3000 cities
+The map has 15000 roads
+Position of first friend is: Lake Concetta
+Position of second friend is: North Merlefurt
+Current node: Lake Concetta
+Current node: East Libradaburgh
+Current node: Arlenberg
+Current node: Blakemouth
+Current node: Claremouth
+Current node: Prosaccoville
+Current node: Silasside
+Current node: Desmondberg
+Current node: Lake Brentville
+Current node: New Kirbyside
+Current node: Lubowitzborough
+Current node: South Kimberly
+Current node: East Jared
+Current node: Antioneport
+Current node: Chifurt
+Current node: Port Floyd
+Current node: Bayerborough
+Current node: Powlowskistad
+Current node: South Debora
+Current node: Murrayborough
+Current node: Klockoborough
+Current node: Ricoburgh
+Current node: New Celestefurt
+Current node: West Lucio
+Current node: East Mariannefurt
+Current node: Kaylenemouth
+Current node: Hintzbury
+Current node: Marveltown
+Current node: South Luthermouth
+Current node: South Armandina
+Current node: Milamouth
+Current node: South Ara
+Current node: Lake Shuchester
+Current node: East Vannaton
+Current node: North Merlefurt
+Number of steps: 35
+Path is: [North Merlefurt, Kaylenemouth, South Debora, South Kimberly, Silasside, Blakemouth, Arlenberg, East Libradaburgh, Lake Concetta]
+The friends meet in Silasside after 488
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 965 ms

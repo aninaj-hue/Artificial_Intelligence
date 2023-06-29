@@ -1,0 +1,21 @@
+The map has 1500 cities
+The map has 7500 roads
+Position of first friend is: East Tonita
+Position of second friend is: Port Tyron
+Current node: East Tonita
+Current node: Port Pingville
+Current node: O'Konshire
+Current node: Jaetown
+Current node: East Nguyetchester
+Current node: North Evelinside
+Current node: East Cortneyhaven
+Current node: Blossomhaven
+Current node: West Laquita
+Current node: West Jettie
+Current node: Fredrickaside
+Current node: Port Tyron
+Number of steps: 12
+Path is: [Port Tyron, West Laquita, Blossomhaven, North Evelinside, O'Konshire, Port Pingville, East Tonita]
+The friends meet in North Evelinside after 374
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 1762 ms

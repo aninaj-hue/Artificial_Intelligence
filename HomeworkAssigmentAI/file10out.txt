@@ -1,0 +1,19 @@
+The map has 10000 cities
+The map has 30000 roads
+Position of first friend is: West Ashley
+Position of second friend is: West Giuseppina
+Current node: West Ashley
+Current node: Lake Lincolntown
+Current node: Stehrside
+Current node: Kutchchester
+Current node: Wehnerview
+Current node: Lake Samuelland
+Current node: Perryfort
+Current node: East Carmelina
+Current node: West Danilobury
+Current node: West Giuseppina
+Number of steps: 10
+Path is: [West Giuseppina, East Carmelina, Wehnerview, Kutchchester, Stehrside, Lake Lincolntown, West Ashley]
+The friends meet in Kutchchester after 566
+Time taken by A* function is: 2 ms
+Time taken by whole program is: 9858 ms

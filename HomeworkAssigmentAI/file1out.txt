@@ -1,0 +1,16 @@
+The map has 250 cities
+The map has 2500 roads
+Position of first friend is: Kunzestad
+Position of second friend is: Rodneyfurt
+Current node: Kunzestad
+Current node: Wittingborough
+Current node: West Jerrell
+Current node: Caroleville
+Current node: Nienowhaven
+Current node: New Valentine
+Current node: Rodneyfurt
+Number of steps: 7
+Path is: [Rodneyfurt, Caroleville, West Jerrell, Wittingborough, Kunzestad]
+The friends meet in West Jerrell after 247
+Time taken by A* function is: 104 ms
+Time taken by whole program is: 2202 ms

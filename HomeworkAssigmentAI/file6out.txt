@@ -1,0 +1,25 @@
+The map has 2500 cities
+The map has 12500 roads
+Position of first friend is: Johnsonmouth
+Position of second friend is: Lake Tanikafort
+Current node: Johnsonmouth
+Current node: New Maritzahaven
+Current node: Jettaport
+Current node: North Gavin
+Current node: Ivonneland
+Current node: Spencermouth
+Current node: Port Cleo
+Current node: Bashirianville
+Current node: Marianelafurt
+Current node: Odellstad
+Current node: Fayside
+Current node: Baileyfurt
+Current node: New Jacques
+Current node: Lake Rickey
+Current node: East Kurtbury
+Current node: Lake Tanikafort
+Number of steps: 16
+Path is: [Lake Tanikafort, Baileyfurt, Bashirianville, Port Cleo, Ivonneland, Jettaport, Johnsonmouth]
+The friends meet in Port Cleo after 391
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 651 ms

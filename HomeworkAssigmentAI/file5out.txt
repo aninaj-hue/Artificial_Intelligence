@@ -1,0 +1,18 @@
+The map has 2000 cities
+The map has 10000 roads
+Position of first friend is: Lake Mercedezmouth
+Position of second friend is: West Ike
+Current node: Lake Mercedezmouth
+Current node: Port Alonzoport
+Current node: Konopelskihaven
+Current node: New Ariana
+Current node: Torpberg
+Current node: South Lonnieville
+Current node: Klingbury
+Current node: New Carmenland
+Current node: West Ike
+Number of steps: 9
+Path is: [West Ike, Torpberg, Port Alonzoport, Lake Mercedezmouth]
+The friends meet in Torpberg after 458
+Time taken by A* function is: 0 ms
+Time taken by whole program is: 673 ms
